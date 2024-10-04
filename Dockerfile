@@ -1,4 +1,4 @@
-FROM docker pull bellsoft/liberica-openjdk-alpine:21
+FROM bellsoft/liberica-openjdk-alpine:21
 
 WORKDIR /usr/share/app
 
